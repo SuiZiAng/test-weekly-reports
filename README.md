@@ -4,7 +4,7 @@ Learning hours:About 5 hours(I started moving to this group yesterday)
 
 Learning progress:I had no basic knowledge of C language before,so I initially learned basic data types,operators and expressions through MOOC.
 
-My implementation of the tasks you have done this week:The compilation of Hello World and simple operations was completed using CodeBlocks.
+My implementation of the tasks you have done this week:The compilation of Hello World and simple operations was completed using CodeBlocks.(A PDF with photos is attached.)
 
 Unsolved problems:None.
 
